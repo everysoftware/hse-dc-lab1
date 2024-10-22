@@ -1,3 +1,3 @@
 PHONY: test
 test:
-	./tests/performance.ps1
+	python tests/measure.py
